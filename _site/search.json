@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Causality and Other Curious Creatures",
+    "section": "",
+    "text": "Welcome to my blog exploring causal inference methodology, statistical thinking, and related adventures in R.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to Causality and Other Curious Creatures\n\n\n\nmeta\n\nteaching\n\n\n\nIntroducing this blog and what to expect\n\n\n\n\n\nNov 17, 2025\n\n\nTodd\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/2025-11-17-first-post/index.html",
+    "href": "posts/2025-11-17-first-post/index.html",
+    "title": "Welcome to Causality and Other Curious Creatures",
+    "section": "",
+    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations. I hope others will find them useful as well.\nThe topics here will vary, but many will focus on causal inference or related topics. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
+  },
+  {
+    "objectID": "posts/2025-11-17-first-post/index.html#why-this-blog",
+    "href": "posts/2025-11-17-first-post/index.html#why-this-blog",
+    "title": "Welcome to Causality and Other Curious Creatures",
+    "section": "",
+    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations. I hope others will find them useful as well.\nThe topics here will vary, but many will focus on causal inference or related topics. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
+  }
+]

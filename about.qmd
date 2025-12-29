@@ -1,0 +1,15 @@
+---
+title: "About"
+image: profile.jpg  # Optional
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+## I'm a professor of Biomedical Informatics. My work cuts across many fields, including AI, Cognitive Science, Human Computer Interaction, Quality Improvement, Information Visualization, and Causal Inference.

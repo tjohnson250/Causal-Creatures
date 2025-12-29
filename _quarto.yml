@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Causality and Other Curious Creatures"
+  description: "Teaching causal inference and statistical methodology"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/tjohnson250
+      - icon: twitter
+        href: https://twitter.com/johnsontoddr4
+  page-footer:
+    center: "Copyright 2025, Todd R. Johnson"
+
+format:
+  html:
+    theme: cosmo  # Options: cosmo, flatly, litera, minty, etc.
+    css: styles.css
+    toc: true
+    code-fold: false
+    code-tools: true

@@ -1,0 +1,22 @@
+---
+title: "Welcome to Causality and Other Curious Creatures"
+author: "Todd"
+date: "2025-11-17"
+categories: [meta, teaching]
+description: "Introducing this blog and what to expect"
+draft: false
+---
+
+## Why This Blog?
+
+This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations.
+
+The topics here will vary, but many will focus on causal inference or related areas. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.
+
+We are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.
+
+I hope you enjoy the posts.
+
+"The trick to education is to teach people in such a way that they don't realize they're learning until it's too late."
+
+--- Doc Edgerton
