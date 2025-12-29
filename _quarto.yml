@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - icon.svg
 
 website:
   title: "Causality and Other Curious Creatures"
