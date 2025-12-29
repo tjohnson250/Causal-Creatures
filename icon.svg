@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#2c3e50" stroke="#1a252f" stroke-width="2"/>
+
+  <!-- DAG Nodes -->
+  <!-- Top node (X - cause) -->
+  <circle cx="30" cy="28" r="10" fill="#3498db" stroke="#fff" stroke-width="2"/>
+
+  <!-- Middle node (M - mediator) -->
+  <circle cx="70" cy="45" r="10" fill="#9b59b6" stroke="#fff" stroke-width="2"/>
+
+  <!-- Bottom node (Y - effect) -->
+  <circle cx="35" cy="72" r="10" fill="#e74c3c" stroke="#fff" stroke-width="2"/>
+
+  <!-- Causal arrows -->
+  <!-- X to M -->
+  <path d="M 40 32 Q 55 35 60 40" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="60,40 54,38 56,44" fill="#ecf0f1"/>
+
+  <!-- X to Y -->
+  <path d="M 32 38 Q 28 55 33 62" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="33,62 28,57 35,56" fill="#ecf0f1"/>
+
+  <!-- M to Y -->
+  <path d="M 62 52 Q 52 62 45 70" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="45,70 48,63 52,69" fill="#ecf0f1"/>
+
+  <!-- Small decorative dots (curious creatures) -->
+  <circle cx="80" cy="25" r="2" fill="#f39c12" opacity="0.8"/>
+  <circle cx="85" cy="75" r="1.5" fill="#f39c12" opacity="0.6"/>
+  <circle cx="18" cy="50" r="1.5" fill="#f39c12" opacity="0.7"/>
+</svg>

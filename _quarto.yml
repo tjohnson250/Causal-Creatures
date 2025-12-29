@@ -4,7 +4,9 @@ project:
 website:
   title: "Causality and Other Curious Creatures"
   description: "Teaching causal inference and statistical methodology"
+  favicon: icon.svg
   navbar:
+    logo: icon.svg
     right:
       - about.qmd
       - icon: github

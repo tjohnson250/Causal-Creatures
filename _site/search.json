@@ -32,13 +32,55 @@
     "href": "posts/2025-11-17-first-post/index.html",
     "title": "Welcome to Causality and Other Curious Creatures",
     "section": "",
-    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations. I hope others will find them useful as well.\nThe topics here will vary, but many will focus on causal inference or related topics. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
+    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations.\nThe topics here will vary, but many will focus on causal inference or related areas. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
   },
   {
     "objectID": "posts/2025-11-17-first-post/index.html#why-this-blog",
     "href": "posts/2025-11-17-first-post/index.html#why-this-blog",
     "title": "Welcome to Causality and Other Curious Creatures",
     "section": "",
-    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations. I hope others will find them useful as well.\nThe topics here will vary, but many will focus on causal inference or related topics. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
+    "text": "This blog is a place to collect and share my explorations in understanding simple to complex topics through prose, visualizations, and code. I create these explorations to help me better understand topics of interest, since I find I do better if I can walk through very simple, but detailed step-by-step simulations and explanations.\nThe topics here will vary, but many will focus on causal inference or related areas. Some will address the state of academia and scientific research. Some may be political. Some of these posts will be bite-sized, meant to convey a point or two quickly. Others will be much longer.\nWe are now at a point where the world is coming at us so quickly that it can be hard to dig deeply into a topic, or to have deep discussions with colleagues or even friends and family. But there is so much learn and so little time to do it. In learning we improve, and in improving we are much better positioned to make the world a better place for all of its creatures and all of those yet to come.\nI hope you enjoy the posts.\n“The trick to education is to teach people in such a way that they don’t realize they’re learning until it’s too late.”\n— Doc Edgerton"
+  },
+  {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "CLAUDE.html#project-overview",
+    "href": "CLAUDE.html#project-overview",
+    "title": "",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis is a Quarto blog focused on causal inference methodology, statistical thinking, and related topics in R. The blog is titled “Causality and Other Curious Creatures” and is authored by Todd R. Johnson, a professor of Biomedical Informatics."
+  },
+  {
+    "objectID": "CLAUDE.html#architecture",
+    "href": "CLAUDE.html#architecture",
+    "title": "",
+    "section": "Architecture",
+    "text": "Architecture\nQuarto Website Structure: - _quarto.yml: Main configuration file defining the website structure, theme (cosmo), and navigation - index.qmd: Homepage with a listing of all blog posts sorted by date (descending) - about.qmd: Author bio and profile page using the Jolla template - posts/: Directory containing individual blog posts, organized by date (format: YYYY-MM-DD-post-name/) - styles.css: Custom CSS for the site - _site/: Generated output directory (not tracked in git) - _freeze/: Quarto’s computation cache directory\nPost Structure: Each blog post lives in its own directory under posts/ with an index.qmd file containing: - YAML frontmatter with: title, author, date, categories, description, draft status - Markdown content with R code chunks as needed"
+  },
+  {
+    "objectID": "CLAUDE.html#common-commands",
+    "href": "CLAUDE.html#common-commands",
+    "title": "",
+    "section": "Common Commands",
+    "text": "Common Commands\nPreview the site locally:\nquarto preview\nRender the entire site:\nquarto render\nRender a specific post:\nquarto render posts/YYYY-MM-DD-post-name/index.qmd\nPublish to GitHub Pages (if configured):\nquarto publish gh-pages"
+  },
+  {
+    "objectID": "CLAUDE.html#key-configuration-details",
+    "href": "CLAUDE.html#key-configuration-details",
+    "title": "",
+    "section": "Key Configuration Details",
+    "text": "Key Configuration Details\n\nTheme: Cosmo (from _quarto.yml:19)\nCode display: Code folding disabled, code tools enabled (from _quarto.yml:22-23)\nPost listing: Configured for chronological display with categories, no UI filters (from index.qmd:3-9)\nNavigation: About page and social links (GitHub, Twitter) in navbar (from _quarto.yml:7-13)"
+  },
+  {
+    "objectID": "CLAUDE.html#content-focus",
+    "href": "CLAUDE.html#content-focus",
+    "title": "",
+    "section": "Content Focus",
+    "text": "Content Focus\nThe blog explores causal inference, statistical methodology, teaching, academia, and occasionally political topics. Posts include prose, visualizations, and code examples, with an emphasis on step-by-step explanations and simulations."
   }
 ]
