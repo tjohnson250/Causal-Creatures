@@ -14,8 +14,8 @@
 
   <!-- Causal arrows -->
   <!-- X to M -->
-  <path d="M 40 32 Q 55 35 60 40" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
-  <polygon points="60,40 54,38 56,44" fill="#ecf0f1"/>
+  <path d="M 40 32 Q 50 36 54 40" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="61,44 53,38 53,46" fill="#ecf0f1"/>
 
   <!-- X to Y -->
   <path d="M 32 38 Q 28 55 33 62" fill="none" stroke="#ecf0f1" stroke-width="2.5" stroke-linecap="round"/>
